@@ -1,0 +1,87 @@
+Condition,Context,Regimen,OS,Cost,Study,PMB Status
+Anaplastic glioma,First-line,"RT then Temozolomide",55.9,57639,CATNON,Meets
+Cervical cancer,First-line,"CP + Pembrolizumab",50.4,2445997,KEYNOTE-826,Evidence Pending
+Cervical cancer,First-line,"CP + Bevacizumab + Pembrolizumab",50.4,3964926,KEYNOTE-826,Evidence Pending
+Cervical cancer,First-line,"TP + Pembrolizumab",50.4,2920595,KEYNOTE-826,Evidence Pending
+Cervical cancer,First-line,"TP + Bevacizumab + Pembrolizumab",50.4,3958664,KEYNOTE-826,Evidence Pending
+Clear cell RCC,First-line,"Ipilimumab + Nivolumab",56.0,665422,CheckMate 214,Evidence Pending
+Colorectal cancer,First-line,FULV,24.8,11440,Cunningham 2008,Evidence Pending
+Colorectal cancer,Second-line,Irinotecan,46.0,27678,Fuchs 2003,Evidence Pending
+Endometrial cancer,First-line,"CP + Dostarlimab",71.3,15869,RUBY,Evidence Pending
+Gastric cancer,First-line,"Capecitabine + Cisplatin (CX)",48.0,5734,AVATAR,Evidence Pending
+Glioblastoma,First-line,"Concurrent TMZ + RT then TMZ maintenance",30.1,,AVaglio,Evidence Pending
+Head and neck cancer,First-line,"Celecoxib + Erlotinib + MTX + Nivolumab",43.4,21389,Patil 2023b,Evidence Pending
+Head and neck cancer,First-line,"Celecoxib + Erlotinib + Methotrexate",16.3,7130,Patil 2023b,Evidence Pending
+Head and neck cancer,Subsequent line,"Low-dose Methotrexate (LDMTX)",30.5,,EAGLE,Evidence Pending
+Hepatocellular carcinoma,First-line,"Lenvatinib + Pembrolizumab + TACE",75.0,3836154,LEAP-012,Evidence Pending
+Hepatocellular carcinoma,First-line,TACE,63.0,,Llovet 2002,Evidence Pending
+Hepatocellular carcinoma,First-line,"Best supportive care",27.0,,Llovet 2002; Trinchet 1995,Evidence Pending
+Hepatocellular carcinoma,First-line,"Durvalumab + Tremelimumab",19.6,512170,HIMALAYA,Meets
+Hepatocellular carcinoma,First-line,Sorafenib,9.4,184952,HIMALAYA,Fails
+Hepatocellular carcinoma,Subsequent line,Placebo,32.0,,Dollinger 2010,Evidence Pending
+Melanoma,First-line,Pembrolizumab,68.4,1584696,KEYNOTE-006,Evidence Pending
+Melanoma,BRAFi-unexposed,Trametinib,81.0,52791,METRIC,Evidence Pending
+Melanoma,BRAFi-unexposed,"Ipilimumab + Nivolumab",71.8,665422,DREAMseq,Evidence Pending
+Melanoma,BRAFi-unexposed,Dacarbazine,67.0,8221,METRIC,Evidence Pending
+Melanoma,BRAFi-unexposed,Paclitaxel,67.0,10701,METRIC,Evidence Pending
+Melanoma,BRAFi-unexposed,Vemurafenib,65.0,140024,COMBI-v,Evidence Pending
+Melanoma,BRAFi-unexposed,"Dabrafenib + Trametinib",44.0,207117,COMBI-d; COMBI-v,Evidence Pending
+Melanoma,BRAFi-unexposed,Dabrafenib,32.0,52791,COMBI-d,Evidence Pending
+Melanoma,First-line,Nivolumab,39.0,,CheckMate 066,Meets
+Melanoma,First-line,Dacarbazine,17.0,8221,CheckMate 066,Meets
+Nasopharyngeal carcinoma,First-line,"GC + Toripalimab",77.8,17034,JUPITER-02,Evidence Pending
+NSCLC,EGFRi-exposed,"Sacituzumab tirumotecan",65.8,,OptiTROP-Lung03/04,Evidence Pending
+NSCLC,EGFRi-exposed,Docetaxel,54.0,10683,OptiTROP-Lung03,Evidence Pending
+NSCLC,EGFRi-exposed,"Carboplatin + Pemetrexed",48.0,131800,OptiTROP-Lung04,Evidence Pending
+NSCLC,EGFRi-exposed,"Cisplatin + Pemetrexed",48.0,98776,OptiTROP-Lung04,Evidence Pending
+NSCLC,EGFRi-unexposed,"Lazertinib + Amivantamab",60.0,766141,MARIPOSA,Evidence Pending
+NSCLC,EGFRi-unexposed,Osimertinib,51.0,918740,MARIPOSA,Evidence Pending
+NSCLC,First-line,"Cisplatin + Gemcitabine (GC)",62.4,25253,Park 2007; Ridolfi 2011,Evidence Pending
+NSCLC,First-line,"Cisplatin + Paclitaxel (TP)",62.4,10058,Park 2007,Evidence Pending
+NSCLC,First-line,"Carboplatin + Docetaxel (DCb)",39.0,23686,BTOG1,Evidence Pending
+NSCLC,First-line,"Cisplatin + Vinorelbine (CVb)",38.4,10397,GLOB-1,Evidence Pending
+NSCLC,First-line,"MVP (Vinblastine)",35.0,10355,BTOG1,Evidence Pending
+NSCLC,First-line,MIC,35.0,28788,BTOG1,Evidence Pending
+NSCLC,First-line,"Ipilimumab + Nivolumab",24.0,665422,CheckMate 227,Meets
+NSCLC,First-line,"CnP + Durvalumab + Tremelimumab",15.7,1119776,POSEIDON,Meets
+NSCLC,First-line,"CnP + Durvalumab",13.0,988075,POSEIDON,Meets
+NSCLC,First-line,"Carboplatin + nab-Paclitaxel (CnP)",6.8,286578,POSEIDON,Fails
+NSCLC,First-line (elderly/poor PS),Docetaxel,58.2,10683,JCOG0803/WJOG4307L,Evidence Pending
+NSCLC,Subsequent line,Docetaxel,28.7,10683,GSK 104864-A/387,Evidence Pending
+NSCLC nonsquamous,First-line,"Carboplatin + Pemetrexed + Camrelizumab",31.2,100601,CameL,Meets
+NSCLC nonsquamous,First-line,"Carboplatin + Pemetrexed",19.3,131800,CameL,Meets
+NSCLC squamous,First-line,"CP + Pembrolizumab",56.9,2445997,KEYNOTE-407 China Ext,Evidence Pending
+NSCLC squamous,First-line,"CnP + Pembrolizumab",56.9,3009785,KEYNOTE-407 China Ext,Evidence Pending
+NSCLC squamous,First-line,"Carboplatin + nab-Paclitaxel (CnP)",31.7,286578,KEYNOTE-407 China Ext,Evidence Pending
+NSCLC squamous,First-line,"Carboplatin + Paclitaxel (CP)",31.7,19442,KEYNOTE-407 China Ext,Evidence Pending
+Ovarian cancer,First-line,"Carboplatin + Paclitaxel (CP)",65.1,19442,JGOG 3016,Evidence Pending
+Ovarian cancer,First-line maintenance,Olaparib,67.0,271443,SOLO1,Meets
+Ovarian cancer,First-line maintenance,Placebo,56.0,,PRIMA; SOLO1,Meets
+Ovarian cancer,First-line maintenance,Niraparib,55.0,1745041,PRIMA,Meets
+Prostate cancer,Castrate-resistant,"ADT + Darolutamide",83.0,23966,ARAMIS,Evidence Pending
+Prostate cancer,Castrate-resistant,ADT,77.0,,ARAMIS,Evidence Pending
+Prostate cancer,Castrate-sensitive,ADT,91.2,,TOAD,Meets
+Prostate cancer,Castrate-sensitive,"ADT + Abiraterone",83.0,369,STAMPEDE,Evidence Pending
+Prostate cancer,Castrate-sensitive,"Enzalutamide + Leuprolide",78.9,105301,EMBARK,Meets
+Prostate cancer,Castrate-sensitive,"Bicalutamide + Goserelin",75.3,24033,Akaza 2004,Meets
+Prostate cancer,Castrate-sensitive,"Bicalutamide + Leuprolide",75.3,28674,Akaza 2004,Meets
+Prostate cancer,Castrate-sensitive,Enzalutamide,73.1,36321,EMBARK,Meets
+Prostate cancer,Castrate-sensitive,Leuprolide,69.5,86122,EMBARK,Meets
+Prostate cancer,Castrate-sensitive,"ADT + Enzalutamide",67.0,519,ENZAMET,Meets
+Prostate cancer,Castrate-sensitive,"ADT + Nilutamide",57.0,,ENZAMET,Meets
+Prostate cancer,Castrate-sensitive,"ADT + Flutamide",57.0,24000,ENZAMET,Meets
+Prostate cancer,Castrate-sensitive,"ADT + Bicalutamide",57.0,24000,ENZAMET,Meets
+Small cell lung cancer,First-line,"Cisplatin + Etoposide (EP)",31.0,12862,GSK 104864-A/389,Evidence Pending
+Small cell lung cancer,First-line,"Carboplatin + Etoposide (CE)",14.1,,LUNGSTAR,Evidence Pending
+Small cell lung cancer,First-line induction,"EP + Pembrolizumab",22.5,2876242,KEYNOTE-604,Evidence Pending
+Small cell lung cancer,First-line induction,"CE + Pembrolizumab",22.5,2879828,KEYNOTE-604,Evidence Pending
+Small cell lung cancer,First-line induction,"Carboplatin + Etoposide (CE)",11.2,18108,KEYNOTE-604,Evidence Pending
+Small cell lung cancer,First-line induction,"Cisplatin + Etoposide (EP)",11.2,12862,KEYNOTE-604,Evidence Pending
+Urothelial carcinoma,1L (platinum-ineligible),Gemcitabine,30.4,33189,AUO-AB 22/00,Meets
+Urothelial carcinoma,2L (platinum-refractory),Atezolizumab,18.0,210007,IMvigor211,Evidence Pending
+Urothelial carcinoma,2L (platinum-refractory),Docetaxel,10.0,10683,IMvigor211,Evidence Pending
+Urothelial carcinoma,2L (platinum-refractory),Paclitaxel,10.0,10701,IMvigor211,Evidence Pending
+Urothelial carcinoma,2L (platinum-refractory),Vinflunine,10.0,,IMvigor211,Evidence Pending
+Uveal melanoma,,Tebentafusp,73.0,,IMCgp100-202,Evidence Pending
+Uveal melanoma,First-line,"Melphalan isolated hepatic perfusion",46.5,,SCANDIUM,Evidence Pending
+Uveal melanoma,First-line,Dacarbazine,29.5,8221,SCANDIUM,Evidence Pending
