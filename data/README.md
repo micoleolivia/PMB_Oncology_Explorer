@@ -1,6 +1,21 @@
-# 🩺 PMB Oncology Explorer
+# 🩺 OncoPolicy Explorer
 
-An interactive Streamlit dashboard for exploring Prescribed Minimum Benefit (PMB) oncology treatment recommendations through dynamic visualisations and policy simulation.
+An interactive Streamlit dashboard for exploring oncology treatment funding decisions through dynamic visualisations and policy simulation.
+
+## 🌐 Live Demo
+
+[https://your-streamlit-app.streamlit.app](https://pmboncologyexplorer13.streamlit.app/)
+
+---
+
+## 📄 Original Research
+
+This dashboard is based on published oncology research.
+
+Original paper:
+[https://link-to-the-paper](https://www.linkedin.com/feed/update/urn:li:activity:7484628307024568320/)
+
+All clinical analyses, methodology, and recommendations belong to the original authors. This project is an independent interactive visualisation of the published findings.
 
 ---
 
