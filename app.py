@@ -13,22 +13,17 @@ st.set_page_config(
 # -----------------------------
 df = pd.read_csv("data/oncology_regimens.csv")
 
-
-
-
 # -----------------------------
 # Header
 # -----------------------------
 st.title("🩺 PMB Oncology Explorer")
-
-
 
 st.markdown("""
 ### Interactive Decision-Support Dashboard
 
 Explore oncology treatment costs, survival outcomes, and Prescribed Minimum Benefit (PMB) eligibility.
 
----
+
 **About this dashboard**
 
 This dashboard is based on published oncology research and has been developed as an interactive decision-support visualisation.
@@ -41,6 +36,7 @@ All clinical analyses, methodology, and recommendations belong to the original a
 """)
 
 st.divider()
+
 # -----------------------------
 # Sidebar
 # -----------------------------
