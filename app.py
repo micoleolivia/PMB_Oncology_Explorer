@@ -204,7 +204,7 @@ if missing_costs > 0:
 # -----------------------------
 # Table
 # -----------------------------
-st.subheader("📋 Policy Scenario Analysis")
+st.subheader("Policy Scenario Analysis")
 
 st.markdown("""
 The current **Prescribed Minimum Benefit (PMB)** legislation for advanced
