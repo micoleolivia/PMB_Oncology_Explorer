@@ -192,7 +192,7 @@ missing_costs = filtered["Cost"].isna().sum()
 
 if missing_costs > 0:
     st.caption(
-        f"ℹ️ {missing_costs} treatment(s) are not displayed because treatment costs "
+        f"{missing_costs} treatment(s) are not displayed because treatment costs "
         "were not reported in the source publication."
     )
 
