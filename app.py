@@ -26,12 +26,21 @@ st.title("🩺 PMB Oncology Explorer")
 st.markdown("""
 ### Interactive Decision-Support Dashboard
 
-Explore oncology treatment costs, survival outcomes and
-Prescribed Minimum Benefit (PMB) eligibility.
+Explore oncology treatment costs, survival outcomes, and Prescribed Minimum Benefit (PMB) eligibility.
+
+---
+**About this dashboard**
+
+This dashboard is based on published oncology research and has been developed as an interactive decision-support visualisation.
+
+**Original paper:**  
+https://www.linkedin.com/feed/update/urn:li:activity:7484628307024568320/
+
+*Disclaimer:*  
+All clinical analyses, methodology, and recommendations belong to the original authors. This application is an independent educational visualisation of the published findings and does not claim ownership of the underlying research.
 """)
 
 st.divider()
-
 # -----------------------------
 # Sidebar
 # -----------------------------
