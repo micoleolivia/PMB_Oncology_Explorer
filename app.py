@@ -263,7 +263,7 @@ filtered["Scenario Status"] = filtered.apply(scenario_status, axis=1)
 new_count = (filtered["Scenario Status"] == "New").sum()
 lost_count = (filtered["Scenario Status"] == "No Longer Eligible").sum()
 
-st.markdown("### 💡 Impact Summary")
+st.markdown("###Impact Summary")
 
 if policy_threshold < 10:
 
